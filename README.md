@@ -1,2 +1,2 @@
 # Drowsiness_Detection
-Computer vision project(CS4111) at NIIT University
+This system will help people who go for long drive.
