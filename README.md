@@ -16,7 +16,7 @@ python face_eye_detect_static_image.py
 
 * Run 
 ```
-python face_eye_detect_static_image.py
+python realtime_face_eye_detection.py
 ```
 ![face_eye_detect](https://user-images.githubusercontent.com/22416933/53569160-89cd4400-3b89-11e9-912e-a63d50cf1f90.jpg)
 
