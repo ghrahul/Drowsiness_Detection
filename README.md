@@ -28,12 +28,17 @@ python realtime_face_eye_detection.py
 
 * The facial landmarks detected by dlib are indexible.
 <br>
+
 * Visualization of 68 facial landmark coordinates from the iBUG 300-W dataset
 
 ![facial_landmarks_68markup-768x619](https://user-images.githubusercontent.com/22416933/53685652-94333d80-3d43-11e9-8249-570bc87de58b.jpg)
 
 # Detection of drowsiness
 
+* Run 
+```
+python drowsiness_detect.py
+```
 ![20190302_234711](https://user-images.githubusercontent.com/22416933/53685846-145aa280-3d46-11e9-9349-aebf2d1a8348.gif)
 
         
