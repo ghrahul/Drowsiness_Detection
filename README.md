@@ -1,8 +1,6 @@
 # Drowsiness_Detection
 This system will help people who go for long drive to detect their drowsiness.
 
-* [Research Paper Reference](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)
-
 * ![GitHub](https://img.shields.io/github/license/ghrahul/Drowsiness_Detection.svg)
 
 # Face and Eye detection in a static image
@@ -40,6 +38,11 @@ python realtime_face_eye_detection.py
 python drowsiness_detect.py
 ```
 ![20190302_234711](https://user-images.githubusercontent.com/22416933/53685846-145aa280-3d46-11e9-9349-aebf2d1a8348.gif)
+
+# References
+
+* [Research Paper Reference](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)
+* [Pyimagesearch](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
         
 
