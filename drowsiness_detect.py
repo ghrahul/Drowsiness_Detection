@@ -53,8 +53,7 @@ print("Start video stream...")
 vs = VideoStream(src=0).start()
 time.sleep(1.0)
 
-#time for camera initialization
-time.sleep(1)
+
 
 while True:
     
